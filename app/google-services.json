@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654071611514",
+    "project_id": "mobil-alk",
+    "storage_bucket": "mobil-alk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654071611514:android:a878a1df9979764d9b3bc3",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654071611514-lg4bnrnujst48lpec54v8s5t2788vvm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvA0_CIjyYHhBnCwHTo0D19Uyiq96jH3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654071611514-lg4bnrnujst48lpec54v8s5t2788vvm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
